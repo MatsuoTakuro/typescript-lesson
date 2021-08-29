@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MatsuoTakuro/typescript-lesson/issues"
   },
-  "homepage": "https://github.com/MatsuoTakuro/typescript-lesson#readme"
+  "homepage": "https://github.com/MatsuoTakuro/typescript-lesson#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
 }
